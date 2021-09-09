@@ -1,0 +1,146 @@
+<html>
+<head>
+    <meta charset = "utf-8"/>
+    <link rel="stylesheet" href="podejscie2.css">
+    <script type="text/javascript" src="Podejscie2.js"></script>
+    
+</head>
+    <body onload="changePhotoRight()">
+        <header>
+        <div id= "logo">LOGO</div>
+            <div id = "leftlogo">logo boczne</div>
+            
+            <nav>
+                <ol>
+                    <li class= "sub"><a href="url">DLA MĘŻCZYZN</a>
+                        <ul class= "sub-1">
+                            <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                            <li class= "bordersub-1" ><a href="url">SNEAKERSY</a></li>
+                            <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+
+                        </ul>
+                    
+                    </li>
+                    <li class= "sub"><a href="url">DLA KOBIET</a>
+                        <ul class= "sub-1">
+                            <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">SNEAKERSY</a></li>
+                            <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+
+                        </ul>
+                    
+                    </li >
+                    <li class= "sub"><a href="url">DLA DZIECI</a>
+                        <ul class= "sub-1" id = "kids">
+                            <li id= "borderboy" class ="sub-2" ><a href="url">DLA DZIEWCZYNKI</a>
+                                <ul class ="sub-3">
+                                    <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                                    <li class= "bordersub-1"><a href="url">SNEAKERSY</a></li>
+                                    <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                                    <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+ 
+                                </ul>
+                            </li>
+                    
+                            <li id= "borderboy" class ="sub-2"><a href="url">DLA CHŁOPCA</a>
+                            
+                                <ul class ="sub-33">
+                                    <div>
+                                    <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                                    <li class= "bordersub-1"><a href="url">SNEAKERSY</a></li>
+                                    <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                                    <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+                                    </div>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class= "sub"><a href="url">NOWOŚĆ</a>
+                        <ul class= "sub-1">
+                            <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">SNEAKERSY</a></li>
+                            <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+
+                        </ul>
+                    
+                    </li>
+                    <li class= "sub"><a href="url">WYPRZEDAŻ</a>
+                        <ul class= "sub-1">
+                            <li class= "bordersub-1"><a href="url">ZIMOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">SNEAKERSY</a></li>
+                            <li class= "bordersub-1"><a href="url">SPORTOWE</a></li>
+                            <li class= "bordersub-1"><a href="url">KLAPKI</a></li>
+
+                        </ul>
+                    
+                    </li>
+                </ol>
+            
+            </nav>
+            <div  id= "rightlogo">logo boczne</div>
+            <div style= clear:both></div>
+        
+        </header>
+        <main>
+            <aside id="left">
+                <div><img src="model1.jpg"> </div>
+                <div><img src="model2.jpg"> </div>
+                <div><img src="model3.jpg"> </div>
+                <div><img src="model4.jpg"> </div>
+                <div><img src="model5.jpg"> </div>
+                <div><img src="model6.jpg"> </div>
+                <div><img src="model7.jpg"> </div>
+                <div><img src="model8.jpg"> </div>
+                <div><img src="model9.jpg"> </div>
+                <div><img src="model10.jpg"> </div>
+                <div><img src="model11.jpg"> </div>
+                <div><img src="model12.jpg"> </div>
+                <div><img src="model13.jpg"> </div>
+                <div><img src="model14.jpg"> </div>
+                <div><img src="model15.jpg"> </div>
+                <div><img src="model16.jpg"> </div>
+                <div><img src="model17.jpg"> </div>
+                <div><img src="model18.jpg"> </div>
+                <div><img src="model19.jpg"> </div>
+                <div><img src="model20.jpg"> </div>
+                <div><img src="model21.jpg"> </div>
+                <div><img src="model22.jpg"> </div>
+                <div><img src="model23.jpg"> </div>
+                
+            </aside  >
+            <article>
+                <section>    
+                    siema
+                    <p> colkolwiek</p>
+                    <p>sadas</p>
+                    <p>asd</p>
+                    <p>asd</p>
+                </section>
+                            
+            </article>
+            <aside id="right" >
+                <div onload="ChangePhotoRight()" >
+                    <div id="right2"></div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </aside>
+            
+        
+        </main>
+        <div style= clear:both></div>
+        <footer>
+            heheehee
+        </footer>    
+    <script>
+        
+        changePhotoRight();
+        </script>
+    </body>
+</html>
